@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Abdul Rauf
+description: Abdul Rauf
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "armujahid.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Abdul Rauf
 user_description: Electrical Engineer with hands on experince in Software Development ,Electronics, Computer Networking and Information Security
-user_title: Developer
+user_title: Engineer
 email: mail@armujahid.me
 twitter_username: armujahid
 github_username:  armujahid
 gplus_username:  +AbdulRaufMujahid
+facebook_username: armujahid
 
 # Google-analytics
 google-analytics:
